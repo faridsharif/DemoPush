@@ -9,6 +9,7 @@ public class DemoDay2 {
 public static void  addTwoPush() {
 	
 	System.out.println("***************");
+		System.out.println("***************");
 	
 }
 }
